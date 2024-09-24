@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github-readme-utils.vercel.app/api/gif/anime" align="center" style="width: 100%" />
+<img src="https://github-readme-utils.vercel.app/api/gif/anime" align="center" style="width: 50%" />
 </div>  
   
 
