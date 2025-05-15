@@ -1,5 +1,7 @@
 <h2 align="left">Hi! My name is Hezequiel Janson</h2>
 
+- 🔭 This is my [resume](https://drive.google.com/file/d/1ssqHpS31bsOpPQrfxFcKDoqmMvWM9OEp/view?usp=sharing)
+
 ###
 
 <div align="center">
